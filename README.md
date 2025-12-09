@@ -1,4 +1,5 @@
-## Hi there 👋
+hi, i'm Brandon
+contact: blau20212@gmail.com
 
 <!--
 **grendel71/grendel71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
