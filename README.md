@@ -1,4 +1,4 @@
-hi, i'm Brandon
+Brandon Lau
 
 contact: blau20212@gmail.com
 
